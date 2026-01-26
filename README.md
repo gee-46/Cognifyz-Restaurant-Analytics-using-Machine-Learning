@@ -33,7 +33,7 @@ Each task is implemented in a separate Jupyter Notebook.
 
 | Task No. | Task Name                        | Objective                                                                 | Notebook Link |
 |---------|----------------------------------|---------------------------------------------------------------------------|---------------|
-| 1 | Predict Restaurant Ratings | Build a regression model to predict aggregate restaurant ratings. | [Task 1](./Task_1_Predict_Restaurant_Ratings.ipynb) |
+| 1 | Predict Restaurant Ratings | Build a regression model to predict aggregate restaurant ratings. | [Task 1](./task1.ipynb) |
 | 2 | Restaurant Recommendation | Create a recommendation system based on user/restaurant preferences. | [Task 2_Restaurant_Recommendation.ipynb](./Task_2_Restaurant_Recommendation.ipynb) |
 | 3 | Cuisine Classification | Develop a model to classify restaurants based on cuisine types. | [Task_3_Cuisine_Classification.ipynb](./Task_3_Cuisine_Classification.ipynb) |
 | 4 | Location-based Analysis | Perform geographical and location-based restaurant analysis. | [Task_4_Location_Based_Analysis.ipynb](./Task_4_Location_Based_Analysis.ipynb) |
